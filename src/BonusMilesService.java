@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class BonusMilesService {
+public class BonusMilesService {
+    public int calculate(int a){
+        int result = a/20;
+        return result;
+    }
 }
